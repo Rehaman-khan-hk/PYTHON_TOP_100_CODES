@@ -1,4 +1,4 @@
-num =100
+num =6
 sum=0
 for i in range(num+1):
     sum=sum+i
