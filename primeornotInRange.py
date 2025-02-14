@@ -1,5 +1,9 @@
 # python find prime numbers in range 
+<<<<<<< HEAD
 low, high = 2, 50
+=======
+low, high = 2, 20
+>>>>>>> 51f24ca (SUM OF THE GIVEN DIGITS)
 primes = []
 
 for i in range(low, high + 1):
